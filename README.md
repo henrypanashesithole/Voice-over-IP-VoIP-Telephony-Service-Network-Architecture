@@ -1,0 +1,2 @@
+# Voice-over-IP-VoIP-Telephony-Service-Network-Architecture
+A complete multi-site enterprise Telephony &amp; IP Networking design engineered and simulated in Cisco Packet Tracer. This project demonstrates centralized and local DHCP services, Inter-VLAN routing, multi-router OSPF dynamic routing, Cisco Unified Communications Manager Express telephony integration and VoIP Dial-Peering across departmental sites.
